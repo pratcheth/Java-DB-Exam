@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afc39e14-5e43-46d6-af0b-3ba12bfa22ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="airline_exam_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaDB-Exam" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1J6roWjJ9rochTbIi3TJgVN26" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="softuni.exam.constants" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SoftUni\examRetake\new\src\main\java\softuni\exam\service" />
+      <recent name="F:\SoftUni\examRetake\new\src\main\java\softuni\exam\repository" />
+      <recent name="F:\SoftUni\examRetake\new\src\main\java\softuni\exam\service\impl" />
+      <recent name="F:\SoftUni\examRetake\new\src\main\java\softuni\exam\models" />
+      <recent name="F:\SoftUni\examRetake\new\src\main\java\softuni\exam\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exam" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.ExamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afc39e14-5e43-46d6-af0b-3ba12bfa22ee" name="Default Changelist" comment="" />
+      <created>1585896993672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585896993672</updated>
+      <workItem from="1585896996607" duration="14120000" />
+      <workItem from="1587279920188" duration="141000" />
+      <workItem from="1587483509186" duration="176000" />
+      <workItem from="1587483716150" duration="131000" />
+      <workItem from="1587483855140" duration="1343000" />
+      <workItem from="1587617675155" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585897040175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585897040175" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1585908281376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585908281376" />
+    <state x="901" y="237" key="FileChooserDialogImpl" timestamp="1587483834547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="901" y="237" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587483834547" />
+    <state width="746" height="226" key="GridCell.Tab.0.bottom" timestamp="1587483876767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587483876767" />
+    <state width="746" height="226" key="GridCell.Tab.0.center" timestamp="1587483876767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587483876767" />
+    <state width="746" height="226" key="GridCell.Tab.0.left" timestamp="1587483876767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587483876767" />
+    <state width="746" height="226" key="GridCell.Tab.0.right" timestamp="1587483876767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587483876767" />
+    <state width="746" height="226" key="GridCell.Tab.1.bottom" timestamp="1587483876768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587483876768" />
+    <state width="746" height="226" key="GridCell.Tab.1.center" timestamp="1587483876768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587483876768" />
+    <state width="746" height="226" key="GridCell.Tab.1.left" timestamp="1587483876768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587483876768" />
+    <state width="746" height="226" key="GridCell.Tab.1.right" timestamp="1587483876768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587483876768" />
+    <state width="1493" height="260" key="GridCell.Tab.2.bottom" timestamp="1586066469885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586066469885" />
+    <state width="1493" height="260" key="GridCell.Tab.2.center" timestamp="1586066469885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1586066469885" />
+    <state width="1493" height="260" key="GridCell.Tab.2.left" timestamp="1586066469885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1586066469885" />
+    <state width="1493" height="260" key="GridCell.Tab.2.right" timestamp="1586066469885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1586066469885" />
+    <state width="250" height="457" key="HiddenNamespacesPopup" timestamp="1585898265305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="250" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1585898265305" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1587483837559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587483837559" />
+    <state x="631" y="225" width="315" height="373" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1585909201024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="225" width="315" height="373" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1585909201024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/softuni/exam/service/impl/TownServiceImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/softuni/exam/service/impl/PassengerServiceImpl.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/softuni/exam/service/impl/PlaneServiceImpl.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/softuni/exam/service/impl/TicketServiceImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/softuni/exam/service/impl/PassengerServiceImpl.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
